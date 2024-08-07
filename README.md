@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=MasterJavaScript&color=006bed)
 
 
-## Hello, meu nome é <strong>Gustavo Francisco</strong>
-- 🏬 &nbsp; Desenvolvedor Junior - FullStack na GazinTech.
+## Hello, meu nome é <strong>Master JavaScript</strong>
 - 🔭 &nbsp; Sempre em busca de conhecimento e desenvolvendo soluções de software.
 - 🌱 &nbsp; Sempre em busca de mais conhecimento...
 
